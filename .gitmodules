@@ -1,0 +1,3 @@
+[submodule "FrontEnd/FrontEnd/my-app"]
+	path = FrontEnd/FrontEnd/my-app
+	url = https://github.com/kr-001/Mobilicis_Assignment.git
